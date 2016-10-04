@@ -11,11 +11,10 @@ Python projects and programs
 
 #### Programs and Algrithoms
   * credit_card (credit_card_validator)
-  * foot_traffic (a problem solved in Python)
+  * foot_traffic
   * roman_numerals
   * word_count
   * matrix sort 
-  
   * binary_serach_tree
   * linked_list
   * sorting algrithoms
