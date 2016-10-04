@@ -14,7 +14,8 @@ Python projects and programs
   * foot_traffic (a problem solved in Python)
   * roman_numerals
   * word_count
-  * matrix sort  
+  * matrix sort 
+  
   * binary_serach_tree
   * linked_list
   * sorting algrithoms
