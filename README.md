@@ -9,17 +9,19 @@ Python projects and programs
   + Terminal Trader(realtime stock trading game)
 
 
-#### Small Programs and Algrithoms
-  * binary_search
+#### Programs and Algrithoms
+  * credit_card (credit_card_validator)
+  * foot_traffic (a problem solved in Python)
+  * roman_numerals
+  * word_count
+  * matrix sort  
   * binary_serach_tree
   * linked_list
   * sorting algrithoms
+  * binary_search
     
-  * matrix sort
-  * credit_card
-  * foot_traffic
-  * roman_numerals
-  * word_count
+ 
+  
     
 
 
