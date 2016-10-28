@@ -10,13 +10,13 @@ Python projects and programs
 
 
 #### Programs and Algrithoms
+  * **linked_list**
   * credit_card (credit_card_validator)
   * foot_traffic
   * roman_numerals
   * word_count
   * matrix sort 
-  * binary_serach_tree
-  * **linked_list**
+  * binary_serach_tree  
   * sorting algrithoms
   * binary_search
     
