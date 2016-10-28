@@ -4,9 +4,9 @@ Python projects and programs
 
 
 #### Termimal Apps
-  + BankSoftware
-  + Hangman Game
-  + Terminal Trader(realtime stock trading game)
+  + **BankSoftware**
+  + **Hangman Game**
+  + **Terminal Trader** (realtime stock trading game)
 
 
 #### Programs and Algrithoms
@@ -16,7 +16,7 @@ Python projects and programs
   * word_count
   * matrix sort 
   * binary_serach_tree
-  * linked_list
+  * **linked_list**
   * sorting algrithoms
   * binary_search
     
